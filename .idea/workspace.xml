@@ -4,7 +4,6 @@
     <list default="true" id="3481ce1e-3d74-4245-99a3-97c4af3aaaa9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/calcengine/Main.class" afterPath="$PROJECT_DIR$/out/production/calcengine/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="calcengine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -409,6 +408,14 @@
       <option name="presentableId" value="Default" />
       <updated>1469062321783</updated>
     </task>
+    <task id="LOCAL-00001" summary="added new code from second calcengine lesson">
+      <created>1469671614814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1469671614814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -451,6 +458,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added new code from second calcengine lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new code from second calcengine lesson" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
